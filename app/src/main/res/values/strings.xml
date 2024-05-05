@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestBrilliant</string>
+    <string-array name="settingsItemNames">
+        <item>Help</item>
+        <item>Extended Services</item>
+        <item>Support</item>
+        <item>Payments</item>
+    </string-array>
+</resources>
